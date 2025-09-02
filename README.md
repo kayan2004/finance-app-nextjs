@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Finance App (Next.js)
+
+This project is a **Finance App** built with [Next.js](https://nextjs.org/). The aim of this application is to help users manage their finances, track expenses, and analyze their spending habits efficiently.
+
+## Features
+
+- User authentication (sign up, log in, log out)
+- Dashboard to view income and expenses
+- Add, edit, and delete transactions
+- Categorize expenses and income
+- Visualizations and charts for better financial insights
+- Responsive design for desktop and mobile use
 
 ## Getting Started
 
-First, run the development server:
+To get up and running locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kayan2004/finance-app-nextjs.git
+   cd finance-app-nextjs
+   ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+3. **Configure environment variables:**
+   - Copy `.env.example` to `.env.local` and update the values as needed.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-## Learn More
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) (if applicable)
+- [TypeScript](https://www.typescriptlang.org/) (if applicable)
+- [Chart.js](https://www.chartjs.org/) or similar for data visualization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## About This Project
 
-## Deploy on Vercel
+This project was developed by following a [course tutorial](#) to learn and practice building modern web applications using Next.js and related technologies. The tutorial provided step-by-step guidance on creating a finance management app, implementing best practices, and mastering new skills.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is for educational purposes. If you wish to use or modify it, please check the course/tutorial's license and attribution requirements.
+
+---
+
+*Happy coding!*
