@@ -50,7 +50,7 @@ To get up and running locally:
 
 ## About This Project
 
-This project was developed by following a [course tutorial](#) to learn and practice building modern web applications using Next.js and related technologies. The tutorial provided step-by-step guidance on creating a finance management app, implementing best practices, and mastering new skills.
+This project was developed by following a [course tutorial](#https://www.udemy.com/course/master-nextjs-full-stack) to learn and practice building modern web applications using Next.js and related technologies. The tutorial provided step-by-step guidance on creating a finance management app, implementing best practices, and mastering new skills.
 
 ## License
 
