@@ -44,9 +44,9 @@ To get up and running locally:
 
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/) (if applicable)
-- [TypeScript](https://www.typescriptlang.org/) (if applicable)
-- [Chart.js](https://www.chartjs.org/) or similar for data visualization
+- [Tailwind CSS](https://tailwindcss.com/) 
+- [TypeScript](https://www.typescriptlang.org/) 
+- [Chart.js](https://www.chartjs.org/) 
 
 ## About This Project
 
